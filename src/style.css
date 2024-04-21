@@ -92,6 +92,12 @@ p {
   max-width: 100%;
   height: auto;
 }
+footer {
+  text-align: center;
+  font-size: 13px;
+  margin-top: 20px;
+  opacity: 0.8;
+}
 @media (max-width: 600px) {
   h1 {
     font-size: 60px;
